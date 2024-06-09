@@ -3,8 +3,9 @@
     <ul>
       <li>
         <NuxtLink to="/">Index</NuxtLink>
-        <NuxtLink to="/parent">Parent</NuxtLink>
-        <NuxtLink to="/parent/child">Child</NuxtLink>
+        <NuxtLink to="/dashboard">Dashboard</NuxtLink>
+        <NuxtLink to="/dashboard/parent">Parent</NuxtLink>
+        <NuxtLink to="/dashboard/parent/child">Child</NuxtLink>
       </li>
     </ul>
   </header>
