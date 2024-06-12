@@ -1,6 +1,6 @@
 <template>
   <header>
-    <p>default layout</p>
+    <p>dashboard layout</p>
     <ul>
       <li>
         <NuxtLink to="/">Index</NuxtLink>
